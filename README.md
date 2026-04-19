@@ -3,7 +3,7 @@
 **`Desenvolvedora FullStack`**
 Estou bem no começo,
 estou aprendendo e sempre procurando a evoluir.
-Me chamo allan sant anna nebias, tenho 17 anos e sou natural de ilhabela sp. Concluí o ensino médio no maria gemma, com o curso técnico em administraçao. Sou apaixonado por tecnologia.
+Me chamo allan sant anna nebias, tenho 17 anos e sou natural de ilhabela sp. Concluí o ensino médio no maria gemma, com o curso técnico em administraçao eu sei que nada aver mais era o que tinha. Sou apaixonado por tecnologia.
 
 
 ---
