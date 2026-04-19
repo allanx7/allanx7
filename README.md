@@ -1,7 +1,7 @@
 ## allanx7
 
 **`Desenvolvedora FullStack`**
-Estou bem no começo
+Estou bem no começo,
 estou aprendendo e sempre procurando a evoluir.
 Me chamo allan sant anna nebias, tenho 17 anos e sou natural de ilhabela sp. Concluí o ensino médio no maria gemma, com o curso técnico em administraçao. Sou apaixonado por tecnologia.
 
