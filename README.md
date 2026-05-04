@@ -1,8 +1,10 @@
 🚀 junior desenvolvedor web | JavaScript & html e css.
 🇧🇷 Brazil
 
-sites adaptativo, e lage page simples e facil uso, e tenho projetos reais.
-aprendeno a mexer no js pra. objetivo ser desenvolvedor full stack ✅
+allan sant anna nebias
+
+sites adaptativo, e Lage page simples e facil uso, e tenho projetos reais.
+aprendeno a mexer no js. o objetivo ser desenvolvedor full stack ✅
 
 
 <div style="display: inline_block"><br>
